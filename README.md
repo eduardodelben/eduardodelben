@@ -13,14 +13,14 @@ Desenvolvedor focado em soluções escaláveis, automação de processos e infra
     <td>
       <img
         height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=edudelb&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=eduardodelben&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=edudelb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodelben&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Top Langs"
       />
     </td>
@@ -29,7 +29,7 @@ Desenvolvedor focado em soluções escaláveis, automação de processos e infra
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=edudelb&theme=dark&hide_border=false"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=eduardodelben&theme=dark&hide_border=false"
     alt="Github Streak"
   />
 </p>
@@ -42,7 +42,7 @@ Desenvolvedor focado em soluções escaláveis, automação de processos e infra
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Repositório de troféus">
     <img
       width="850"
-      src="https://github-profile-trophy.vercel.app/?username=edudelb&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=eduardodelben&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
@@ -61,13 +61,13 @@ Desenvolvedor focado em soluções escaláveis, automação de processos e infra
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
-  <img src="https://profile-counter.glitch.me/edudelb/count.svg" alt="Número de visitantes" />
+  <img src="https://profile-counter.glitch.me/eduardodelben/count.svg" alt="Número de visitantes" />
   <br><br>
   
   <a href="https://www.instagram.com/edudelb" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:eduardoalves@exemplo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
