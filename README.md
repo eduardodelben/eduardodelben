@@ -1,49 +1,73 @@
-# Olá, eu sou o Eduardo Delben 👋
+# Olá, eu sou o Eduardo Alves 👋
 
 ### 🚀 Estudante de Engenharia de Software | Técnico em Desenvolvimento de Sistemas
 
-Sou um desenvolvedor focado em soluções eficientes, com experiência técnica em desenvolvimento de sistemas e atualmente aprofundando conhecimentos acadêmicos em Engenharia de Software. Sou apaixonado por automação de processos, gestão de servidores e criação de ferramentas que facilitam o dia a dia digital.
+Desenvolvedor focado em soluções escaláveis, automação de processos e infraestrutura. Unindo o rigor acadêmico da Engenharia com a prática técnica em desenvolvimento de sistemas para criar ferramentas inteligentes e servidores resilientes.
 
 ---
 
-### 🛠️ No que eu trabalho:
-- **Web Automation:** Criação de bots e fluxos com n8n e Docker.
-- **Web Dev:** Desenvolvimento de sites e landing pages profissionais (WordPress & Code).
-- **Server Management:** Administração de VPS e infraestrutura em nuvem.
-- **Affiliate Tools:** Desenvolvimento de sistemas para conversão de links e automação de ofertas.
+### ⚙️ GitHub Analytics
 
----
-
-### 💻 Tecnologias & Ferramentas:
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **DevOps/Server** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) |
-| **Ferramentas** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Nikon](https://img.shields.io/badge/Photography-Nikon-B1B1B1?style=flat-square&logo=nikon&logoColor=yellow) |
-
----
-
-### 📊 Estatísticas do GitHub:
+<table align="center">
+  <tr>
+    <td>
+      <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=edudelb&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=edudelb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Top Langs"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=edudelb&theme=dark&hide_border=false"
+    alt="Github Streak"
+  />
 </p>
 
 ---
 
-### 📫 Como me encontrar:
+### 🏆 GitHub Profile Trophy
 
-<p align="left">
-  <a href="https://www.instagram.com/eduardodelben" target="_blank">
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Repositório de troféus">
+    <img
+      width="850"
+      src="https://github-profile-trophy.vercel.app/?username=edudelb&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+| Categoria | Stack |
+| :--- | :--- |
+| **Backend & Automação** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) |
+| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Web & CMS** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+  <img src="https://profile-counter.glitch.me/edudelb/count.svg" alt="Número de visitantes" />
+  <br><br>
+  
+  <a href="https://www.instagram.com/edudelb" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:eduardodelben@hotmail.com">
+  <a href="mailto:seu-email@exemplo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-*“Transformando café e linhas de código em automações que funcionam.”*
+</div>
