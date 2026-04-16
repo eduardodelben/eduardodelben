@@ -36,19 +36,6 @@ Desenvolvedor focado em soluções escaláveis, automação de processos e infra
 
 ---
 
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Repositório de troféus">
-    <img
-      width="850"
-      src="https://github-profile-trophy.vercel.app/?username=eduardodelben&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
----
-
 ### 🛠️ Tecnologias & Ferramentas
 
 | Categoria | Stack |
@@ -59,15 +46,10 @@ Desenvolvedor focado em soluções escaláveis, automação de processos e infra
 
 ---
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-  <img src="https://profile-counter.glitch.me/eduardodelben/count.svg" alt="Número de visitantes" />
-  <br><br>
-  
-  <a href="https://www.instagram.com/edudelb" target="_blank">
+  <a href="https://www.instagram.com/eduardodelben" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:eduardoalves@exemplo.com">
+  <a href="mailto:eduardodelben@hotmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
